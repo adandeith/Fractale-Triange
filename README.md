@@ -1,5 +1,4 @@
 # Fractale-Triange
-Python script to generate a triangle fractal
 
 
 Simple python script to generate a triangle fractal using the L-System.
